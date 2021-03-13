@@ -1,0 +1,7 @@
+First Name= Bishwagit
+Last Name= Das
+DOB= 2021-03-13
+Gender= male
+Email= bishwagitdas0@gmail.com
+User ID=bishwagitdas
+Password=040404
