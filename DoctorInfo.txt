@@ -1,8 +1,0 @@
-First Name= supto
-Last Name= khan
-DOB= 2020-09-15
-Gender= male
-Email= supto90@gmail.com
-User ID=supto1
-Password=66789
-Speciality=Neurologist
